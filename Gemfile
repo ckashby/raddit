@@ -22,6 +22,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.11'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
+gem 'record_tag_helper', '~> 1.0'
 gem 'rubocop', '~> 0.56.0', require: false
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
